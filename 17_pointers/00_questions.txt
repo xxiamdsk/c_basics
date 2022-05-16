@@ -1,0 +1,25 @@
+⭐⭐⭐⭐⭐⭐⭐ WEB WITH AMAN ⭐⭐⭐⭐⭐⭐⭐
+   
+🟢 Language ➡ C
+🟢 Topic ➡ Pointers
+    
+    
+01. Write a function to swap values of two in variables by calling a function. (TSRN)
+
+02. Write a function to swap strings of two char arrays by calling a functions. (TSRN)
+
+03. Write a function to sort an array of int type values using pointers. [ void sort(int *ptr,int size); ]
+
+04. Write a program in C to demonstrate how to handle the extended concept of pointers.
+
+05. Write a program to find the largest number between two numbers using pointers.
+
+06. Write a program to calculate the length of the string using a pointer.
+
+07. Write a program to count the number of vowels and consonants in a string using a pointer.
+
+08. Write a program to compute the sum of all elements in an array using a pointer.
+
+09. Write a program to print the elements of an array in reverse order using a pointer.
+
+10. Write a program to print a string in reverse using a pointer.
